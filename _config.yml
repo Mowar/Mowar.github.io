@@ -216,7 +216,7 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/YSZYCF
-
+  Jupyter: http://47.95.206.9:8890
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
