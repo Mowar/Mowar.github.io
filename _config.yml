@@ -215,8 +215,10 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/YSZYCF
-  Jupyter: http://47.95.206.9:8890
+  GitHub: https://github.com/Mowar
+  Jupyter: http://jupyter.mowar.cn:8890
+  Solo: http://solo.mowar.cn:8081
+  Datasets: http://datases.mowar.cn:8082
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
