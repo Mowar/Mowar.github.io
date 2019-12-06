@@ -2,4 +2,4 @@
 
 ## ps ##
 
-tell me your ideas lsls
+tell me your ideas
